@@ -20,16 +20,14 @@ Tenho trabalhado em projetos utilizando as seguintes tecnologias:
 ---
 
 
-## 📊 Minhas Contribuições (Pac-Man Mode)
 
-Aqui é onde o Pac-Man come meus commits. Se estiver vazio, é porque eu estava em reunião ou o Docker decidiu reconstruir a imagem do zero.
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-joaoCintra1/dev-joaoCintra1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-joaoCintra1/dev-joaoCintra1/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dev-joaoCintra1/dev-joaoCintra1/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 
 ## 📫 Vamos conversar?
 
