@@ -33,7 +33,7 @@ Tenho trabalhado em projetos utilizando as seguintes tecnologias:
 
 Estou sempre aberto a trocar ideias sobre tecnologia, arquitetura de software ou possíveis colaborações. Fique à vontade para me chamar no LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-gabriel-costa-cintra)
 
 ---
 *“Acredito que o aprendizado contínuo é a melhor ferramenta para um desenvolvedor.”*
