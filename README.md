@@ -21,11 +21,11 @@ Tenho trabalhado em projetos utilizando as seguintes tecnologias:
 
 
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-joaoCintra1/dev-joaoCintra1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-joaoCintra1/dev-joaoCintra1/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dev-joaoCintra1/dev-joaoCintra1/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 
 
